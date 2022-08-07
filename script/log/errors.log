@@ -1,0 +1,24 @@
+2022-08-07 at 19:17:50 | INFO | Loading settings for New York Taxi Data from environment variables
+2022-08-07 at 19:17:50 | ERROR | Error creating spark session: %s red
+2022-08-07 at 19:19:09 | INFO | Loading settings for New York Taxi Data from environment variables
+2022-08-07 at 19:19:09 | ERROR | Error creating spark session: %s 
+2022-08-07 at 19:19:09 | ERROR | Error creating spark session: %s 
+2022-08-07 at 19:19:43 | INFO | Loading settings for New York Taxi Data from environment variables
+2022-08-07 at 19:19:43 | ERROR | Error creating spark session: %s 
+2022-08-07 at 19:19:43 | ERROR | Error creating spark session: %s 
+2022-08-07 at 19:20:28 | INFO | Loading settings for New York Taxi Data from environment variables
+2022-08-07 at 19:20:28 | INFO | Loading settings for New York Taxi Data from environment variables
+2022-08-07 at 19:20:28 | ERROR | Error creating spark session: 
+2022-08-07 at 19:20:28 | ERROR | Error creating spark session: 
+2022-08-07 at 19:24:11 | INFO | Loading settings for New York Taxi Data from environment variables
+2022-08-07 at 19:24:11 | INFO | Loading settings for New York Taxi Data from environment variables
+2022-08-07 at 19:24:11 | ERROR | Error creating spark session
+2022-08-07 at 19:24:11 | ERROR | Error creating spark session
+2022-08-07 at 19:24:46 | INFO | Loading settings for New York Taxi Data from environment variables
+2022-08-07 at 19:24:46 | INFO | Loading settings for New York Taxi Data from environment variables
+2022-08-07 at 19:24:46 | ERROR | Error creating spark session
+2022-08-07 at 19:24:46 | ERROR | Error creating spark session
+2022-08-07 at 19:26:12 | INFO | Loading settings for New York Taxi Data from environment variables
+2022-08-07 at 19:26:12 | INFO | Loading settings for New York Taxi Data from environment variables
+2022-08-07 at 19:26:12 | ERROR | Error creating spark session
+2022-08-07 at 19:26:12 | ERROR | Error creating spark session
